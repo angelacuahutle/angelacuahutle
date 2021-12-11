@@ -1,16 +1,13 @@
 ### Hi there 👋 My name is Angela Cuahutle Navarro
 
 
+🌱 I’m an active learner of Ruby, Ruby on Rails, JavaScript, React & Redux, SQL, and databases at MICROVERSE.
 
+🔭 Currently working at clavel.be and other side projects as a developer, I'm always looking for new challenges and opportunities to collaborate!
 
-🌱 I’m an active learner of Ruby, Ruby on Rails, JavaScript, React & Redux, SQL and Database at MICROVERSE
+💬 Share any thoughts on the relationship between the creative industries and technology.
 
-🔭 Currently working at clavel.be and other side projects as Developer and Art Curator always looking for new challenges and oportunities to collaborate!
-
-💬 Ask me about the relationship between Creative Industries and Tech
-
- 📫 Feel free to reach me: @AngelaCunaDev
-
+Please contact me at @AngelaCunaDev.
 
 
 
