@@ -10,4 +10,6 @@
 Please contact me at @AngelaCunaDev.
 
 
+![angelacuahutle's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelacuahutle&theme=tokyonight&show_icons=true)
+
 
