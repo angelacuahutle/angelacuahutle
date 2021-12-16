@@ -9,6 +9,7 @@
 
 Please contact me at @AngelaCunaDev.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelacuahutle&layout=compact)](https://github.com/angelacuahutle/github-readme-stats)
 
 ![angelacuahutle's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelacuahutle&theme=tokyonight&show_icons=true)
 
